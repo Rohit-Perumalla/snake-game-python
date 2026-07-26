@@ -37,7 +37,8 @@ python snake_game.py
 
 ## 📷 Screenshot
 
-(Add a screenshot here)
+<img width="491" height="432" alt="game_sc_2" src="https://github.com/user-attachments/assets/5053bd45-5ef3-4f8f-96f7-de12168d691f" />
+
 
 ## 👨‍💻 Author
 
